@@ -1,6 +1,6 @@
 from FSGUI import *
 import FSGUI_PathGetter as pg
-
+import FSGUI_ImageViewer as iv
 
 class MainGUI(tk.Tk):
     def __init__(self, **kw):
